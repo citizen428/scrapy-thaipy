@@ -1,0 +1,17 @@
+Via: 1.1 google
+Via: 1.1 varnish
+X-Cache: MISS
+Content-Encoding: gzip
+Date: Wed, 13 Dec 2017 15:27:30 GMT
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+X-Served-By: cache-sin18027-SIN
+X-Csrf-Jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjVmYTg5MGIzLTcwZDUtNDA1ZS1iZmIzLTNmMWU4ZjNlNjhhOCIsImlhdCI6MTUxMzE3ODg1MH0._PSJUPxIlMgGqKIDcMgZrnAs1QBqtH5YdKtoorKpSqY
+Server: nginx
+Cache-Control: no-cache
+Accept-Ranges: bytes
+Set-Cookie: x-csrf-jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiY29va2llIiwidXVpZCI6IjVmYTg5MGIzLTcwZDUtNDA1ZS1iZmIzLTNmMWU4ZjNlNjhhOCIsImlhdCI6MTUxMzE3ODg1MH0.J4zt3fu8Mv6olY6d3qcpH18pgLbbiBTyx526CgqSDhA; HttpOnly; SameSite=Strict; Path=/
+Set-Cookie: x-csrf-jwt-header=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjVmYTg5MGIzLTcwZDUtNDA1ZS1iZmIzLTNmMWU4ZjNlNjhhOCIsImlhdCI6MTUxMzE3ODg1MH0._PSJUPxIlMgGqKIDcMgZrnAs1QBqtH5YdKtoorKpSqY; Secure; SameSite=Strict; Path=/
+Vary: accept-encoding
+Content-Type: text/html; charset=utf-8
+X-Cloud-Trace-Context: dbc17e11b2318c51c88107cbf5cf0cdc/11775490334739730751;o=0
+X-Cache-Hits: 0

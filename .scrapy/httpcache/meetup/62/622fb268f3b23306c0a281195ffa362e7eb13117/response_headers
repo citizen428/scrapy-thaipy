@@ -1,0 +1,21 @@
+Via: 1.1 google
+Via: 1.1 varnish
+Content-Type: text/html; charset=utf-8
+X-Cache: MISS
+Content-Encoding: gzip
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+X-Internal-Redirect: mupweb
+X-Served-By: cache-sin18029-SIN
+X-Csrf-Jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjhhODMwNzQ5LWFmZGMtNGY0YS05YzIxLTBkMjdkMTA5NDQ0MiIsImlhdCI6MTUxMzE3ODg0OH0._pZQiReaFj5MUbNuhMraH7FoTxdBqqaue4qOlYFugZY
+Server: nginx
+Cache-Control: no-cache
+Accept-Ranges: bytes
+Set-Cookie: x-csrf-jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiY29va2llIiwidXVpZCI6IjhhODMwNzQ5LWFmZGMtNGY0YS05YzIxLTBkMjdkMTA5NDQ0MiIsImlhdCI6MTUxMzE3ODg0OH0.m5aO_WeGLWmHc85KhOy82IvSdn9pZUn6WB9AFs4jkbI; HttpOnly; SameSite=Strict; Path=/
+Set-Cookie: x-csrf-jwt-header=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjhhODMwNzQ5LWFmZGMtNGY0YS05YzIxLTBkMjdkMTA5NDQ0MiIsImlhdCI6MTUxMzE3ODg0OH0._pZQiReaFj5MUbNuhMraH7FoTxdBqqaue4qOlYFugZY; Secure; SameSite=Strict; Path=/
+Set-Cookie: MFS_template_id="m=-1&s=264273378c7f75b0bc8a0dcd987e7fbb9e2e93bb"; Version=1; Domain=.meetup.com; Path=/; HttpOnly
+X-Redirect-Location: https://beta2.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/238974389/
+Vary: accept-encoding
+Fastly-Restarts: 1
+Date: Wed, 13 Dec 2017 15:27:29 GMT
+X-Cloud-Trace-Context: 7b56beb4a950bac2e553e08ea24f4d2a/2090058140839967415;o=0
+X-Cache-Hits: 0

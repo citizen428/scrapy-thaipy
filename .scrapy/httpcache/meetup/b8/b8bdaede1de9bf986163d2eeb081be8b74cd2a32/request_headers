@@ -1,0 +1,6 @@
+Referer: https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/past/
+Accept-Encoding: gzip,deflate
+Accept-Language: en
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: x-csrf-jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiY29va2llIiwidXVpZCI6IjdhMjg2MjlmLWMyOTctNDA3YS1iMWRlLTMyZTFlZmZlOTY1NiIsImlhdCI6MTUxMzE3ODM0MX0.SeXC5OkQ_jiBvHg0GaOvpRGDp-GFm6mGqz7xsnIggvM; x-csrf-jwt-header=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjdhMjg2MjlmLWMyOTctNDA3YS1iMWRlLTMyZTFlZmZlOTY1NiIsImlhdCI6MTUxMzE3ODM0MX0.bY86fwcopnIcXtC3vN4Ai3832Bl8MEeFAwHvnW-O5m4; _cookie-check=hZgbRu3iDK8kntiA; MEETUP_TRACK="id=425b76af-090c-4340-9868-6b86c7217d01&l=0&s=d392ed5a7697b2eeb87c71d75fcce8b64efe6860"; MEETUP_CSRF=62ab1455-238c-49cf-8f00-7a21b3b1ed50; MEETUP_BROWSER_ID="id=57914ced-e554-4870-b0b8-b9f57115d13f"; MEETUP_AFFIL="affil=meetup"; MEETUP_MEMBER="id=0&status=1&timestamp=1513178340&bs=0&tz=US%2FEastern&zip=&country=us&city=&state=&lat=0.0&lon=0.0&ql=false&s=b6cbfdfa7ad2d43033213293fe129ffb912db28b&scope=ALL"
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
