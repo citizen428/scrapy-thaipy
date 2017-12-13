@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
+from scrapy.loader import ItemLoader
 from thaipy.items import MeetupItem
 
 
@@ -11,9 +12,7 @@ class MeetupSpider(scrapy.Spider):
 
     def parse(self, response):
         for event in response.css('li.list-item'):
-            yield MeetupItem(
-                title=event.css(
-                    'h2.eventCardHead--title::text').extract_first(),
-                date=event.css(
-                    '.eventTimeDisplay-startDate > span::text').extract_first()
-            )
+            loader = ItemLoader(item=MeetupItem(), selector=event)
+            loader.add_css('title', 'h2.eventCardHead--title::text')
+            loader.add_css('date', '.eventTimeDisplay-startDate > span::text')
+            yield loader.load_item()

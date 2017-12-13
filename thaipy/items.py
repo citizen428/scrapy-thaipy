@@ -11,3 +11,4 @@ import scrapy
 class MeetupItem(scrapy.Item):
     title = scrapy.Field()
     date = scrapy.Field()
+
