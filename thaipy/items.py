@@ -6,8 +6,9 @@
 # http://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+from scrapy.loader.processors import TakeFirst, Join
 
 
 class MeetupItem(scrapy.Item):
-    title = scrapy.Field()
-    date = scrapy.Field()
+    title = scrapy.Field(output_processor=TakeFirst())
+    date = scrapy.Field(output_processor=Join(" @ "))

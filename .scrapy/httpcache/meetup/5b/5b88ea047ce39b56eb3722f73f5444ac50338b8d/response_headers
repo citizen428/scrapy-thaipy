@@ -1,25 +1,25 @@
-X-Internal-Redirect: mupweb
-Content-Encoding: gzip
-Fastly-Restarts: 1
-Accept-Ranges: bytes
-X-Cache-Hits: 0
-X-Csrf-Jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjlkYWMzNGQ4LTNmZTItNGNjNC04Mzc1LTYwMmZiNWYyZjY4MSIsImlhdCI6MTUxMzE3NzQxOX0.-tmPI0uBy74tdZQ66NmQtRfn3MiuSFLD60jE_ORwK7Y
 Server: nginx
-X-Cloud-Trace-Context: 0baf5a08973f3a8587b45f4845590018/9505130317686064645;o=0
-Vary: accept-encoding
-Set-Cookie: x-csrf-jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiY29va2llIiwidXVpZCI6IjlkYWMzNGQ4LTNmZTItNGNjNC04Mzc1LTYwMmZiNWYyZjY4MSIsImlhdCI6MTUxMzE3NzQxOX0.oTFe0RtUOTX28ErtPvgWxkAKOh3Z2UOOVbCDKyZ9V8o; HttpOnly; SameSite=Strict; Path=/
-Set-Cookie: x-csrf-jwt-header=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjlkYWMzNGQ4LTNmZTItNGNjNC04Mzc1LTYwMmZiNWYyZjY4MSIsImlhdCI6MTUxMzE3NzQxOX0.-tmPI0uBy74tdZQ66NmQtRfn3MiuSFLD60jE_ORwK7Y; Secure; SameSite=Strict; Path=/
-Set-Cookie: MEETUP_MEMBER="id=0&status=1&timestamp=1513177418&bs=0&tz=US%2FEastern&zip=&country=us&city=&state=&lat=0.0&lon=0.0&ql=false&s=577cff2526e77c27eb8bf24050b92572f2e997b0&scope=ALL"; Version=1; Domain=.meetup.com; Path=/; Secure; HttpOnly
-Set-Cookie: MEETUP_AFFIL="affil=meetup"; Version=1; Domain=.meetup.com; Max-Age=3888000; Expires=Sat, 27-Jan-2018 15:03:38 GMT; Path=/; HttpOnly
-Set-Cookie: MEETUP_TRACK="id=d6f83df4-0873-447f-850b-3fdc2196ba7a&l=0&s=2dcdef262e1ef5403db02ffe9d6b48f0a54627fe"; Version=1; Domain=.meetup.com; Max-Age=630720000; Expires=Tue, 08-Dec-2037 15:03:38 GMT; Path=/; HttpOnly
-Set-Cookie: MEETUP_BROWSER_ID="id=3d00f73d-f21e-4fa2-96b1-d9a4d72a261e"; Version=1; Domain=.meetup.com; Max-Age=630720000; Expires=Tue, 08-Dec-2037 15:03:38 GMT; Path=/; Secure; HttpOnly
-Set-Cookie: MEETUP_CSRF=ba7fcbc6-f759-41f0-8afd-2fc93fb69428; Domain=.meetup.com; Expires=Fri, 12-Jan-2018 15:03:38 GMT; Path=/; Secure
-X-Redirect-Location: https://beta2.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/past/
-X-Cache: MISS
-Content-Type: text/html; charset=utf-8
-Date: Wed, 13 Dec 2017 15:03:40 GMT
-X-Served-By: cache-sin18027-SIN
 Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+Content-Type: text/html; charset=utf-8
+Set-Cookie: x-csrf-jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiY29va2llIiwidXVpZCI6IjdhMjg2MjlmLWMyOTctNDA3YS1iMWRlLTMyZTFlZmZlOTY1NiIsImlhdCI6MTUxMzE3ODM0MX0.SeXC5OkQ_jiBvHg0GaOvpRGDp-GFm6mGqz7xsnIggvM; HttpOnly; SameSite=Strict; Path=/
+Set-Cookie: x-csrf-jwt-header=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjdhMjg2MjlmLWMyOTctNDA3YS1iMWRlLTMyZTFlZmZlOTY1NiIsImlhdCI6MTUxMzE3ODM0MX0.bY86fwcopnIcXtC3vN4Ai3832Bl8MEeFAwHvnW-O5m4; Secure; SameSite=Strict; Path=/
+Set-Cookie: MEETUP_MEMBER="id=0&status=1&timestamp=1513178340&bs=0&tz=US%2FEastern&zip=&country=us&city=&state=&lat=0.0&lon=0.0&ql=false&s=b6cbfdfa7ad2d43033213293fe129ffb912db28b&scope=ALL"; Version=1; Domain=.meetup.com; Path=/; Secure; HttpOnly
+Set-Cookie: MEETUP_AFFIL="affil=meetup"; Version=1; Domain=.meetup.com; Max-Age=3888000; Expires=Sat, 27-Jan-2018 15:19:00 GMT; Path=/; HttpOnly
+Set-Cookie: MEETUP_TRACK="id=425b76af-090c-4340-9868-6b86c7217d01&l=0&s=d392ed5a7697b2eeb87c71d75fcce8b64efe6860"; Version=1; Domain=.meetup.com; Max-Age=630720000; Expires=Tue, 08-Dec-2037 15:19:00 GMT; Path=/; HttpOnly
+Set-Cookie: MEETUP_BROWSER_ID="id=57914ced-e554-4870-b0b8-b9f57115d13f"; Version=1; Domain=.meetup.com; Max-Age=630720000; Expires=Tue, 08-Dec-2037 15:19:00 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: MEETUP_CSRF=62ab1455-238c-49cf-8f00-7a21b3b1ed50; Domain=.meetup.com; Expires=Fri, 12-Jan-2018 15:19:00 GMT; Path=/; Secure
+X-Cache-Hits: 0
+X-Cloud-Trace-Context: e8e77812ea6ca0ccf759262c4d96e78a/1051611000942903561;o=0
 Via: 1.1 google
 Via: 1.1 varnish
+X-Csrf-Jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjdhMjg2MjlmLWMyOTctNDA3YS1iMWRlLTMyZTFlZmZlOTY1NiIsImlhdCI6MTUxMzE3ODM0MX0.bY86fwcopnIcXtC3vN4Ai3832Bl8MEeFAwHvnW-O5m4
+Fastly-Restarts: 1
 Cache-Control: no-cache
+X-Redirect-Location: https://beta2.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/past/
+Date: Wed, 13 Dec 2017 15:19:02 GMT
+X-Served-By: cache-sin18026-SIN
+Accept-Ranges: bytes
+Vary: accept-encoding
+X-Internal-Redirect: mupweb
+X-Cache: MISS
+Content-Encoding: gzip
