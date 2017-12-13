@@ -1,0 +1,20 @@
+X-Meetup-Server: fef2da59b5b1
+Via: 1.1 varnish
+X-Frame-Options: sameorigin
+Location: https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/238974389/
+X-Served-By: cache-sin18024-SIN
+P3P: CP="CAO DSP LAW CUR DEVa TAIa PSAi PSDi OTPi OUR IND UNI NAV DEM STA LOC OTC"
+Date: Wed, 13 Dec 2017 15:27:27 GMT
+Server: Apache-Coyote/1.1
+Cache-Control: no-cache
+Accept-Ranges: bytes
+Set-Cookie: MFS_template_id="m=-1&s=264273378c7f75b0bc8a0dcd987e7fbb9e2e93bb"; Version=1; Domain=.meetup.com; Path=/; HttpOnly
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Vary: User-Agent,Accept-Language
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Strict-Transport-Security: max-age=7776000
+X-Cache: MISS
+Pragma: No-cache
+X-Cache-Hits: 0
+X-Xss-Protection: 1; mode=block
