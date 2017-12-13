@@ -14,7 +14,11 @@ class MeetupSpider(CrawlSpider):
         'https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/past']
 
     rules = [
-        Rule(LinkExtractor(allow=('events/\w+/')), callback='parse_meetup')
+        Rule(
+            LinkExtractor(
+                allow=('/ThaiPy-Bangkok-Python-Meetup/events/\w+/'),
+                deny=('upcoming', 'past', 'proposed', 'calendar', 'attendees')),
+            callback='parse_meetup')
     ]
 
     def parse_meetup(self, response):

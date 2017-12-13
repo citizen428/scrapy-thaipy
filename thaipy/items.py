@@ -12,3 +12,4 @@ from scrapy.loader.processors import TakeFirst, Join
 class MeetupItem(scrapy.Item):
     title = scrapy.Field(output_processor=TakeFirst())
     date = scrapy.Field(output_processor=Join(" @ "))
+    parsed_at = scrapy.Field()
