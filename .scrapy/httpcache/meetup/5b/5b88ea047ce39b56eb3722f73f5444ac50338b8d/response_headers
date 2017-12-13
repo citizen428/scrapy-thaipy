@@ -1,0 +1,25 @@
+X-Internal-Redirect: mupweb
+Content-Encoding: gzip
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+X-Cache-Hits: 0
+X-Csrf-Jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjlkYWMzNGQ4LTNmZTItNGNjNC04Mzc1LTYwMmZiNWYyZjY4MSIsImlhdCI6MTUxMzE3NzQxOX0.-tmPI0uBy74tdZQ66NmQtRfn3MiuSFLD60jE_ORwK7Y
+Server: nginx
+X-Cloud-Trace-Context: 0baf5a08973f3a8587b45f4845590018/9505130317686064645;o=0
+Vary: accept-encoding
+Set-Cookie: x-csrf-jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiY29va2llIiwidXVpZCI6IjlkYWMzNGQ4LTNmZTItNGNjNC04Mzc1LTYwMmZiNWYyZjY4MSIsImlhdCI6MTUxMzE3NzQxOX0.oTFe0RtUOTX28ErtPvgWxkAKOh3Z2UOOVbCDKyZ9V8o; HttpOnly; SameSite=Strict; Path=/
+Set-Cookie: x-csrf-jwt-header=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaGVhZGVyIiwidXVpZCI6IjlkYWMzNGQ4LTNmZTItNGNjNC04Mzc1LTYwMmZiNWYyZjY4MSIsImlhdCI6MTUxMzE3NzQxOX0.-tmPI0uBy74tdZQ66NmQtRfn3MiuSFLD60jE_ORwK7Y; Secure; SameSite=Strict; Path=/
+Set-Cookie: MEETUP_MEMBER="id=0&status=1&timestamp=1513177418&bs=0&tz=US%2FEastern&zip=&country=us&city=&state=&lat=0.0&lon=0.0&ql=false&s=577cff2526e77c27eb8bf24050b92572f2e997b0&scope=ALL"; Version=1; Domain=.meetup.com; Path=/; Secure; HttpOnly
+Set-Cookie: MEETUP_AFFIL="affil=meetup"; Version=1; Domain=.meetup.com; Max-Age=3888000; Expires=Sat, 27-Jan-2018 15:03:38 GMT; Path=/; HttpOnly
+Set-Cookie: MEETUP_TRACK="id=d6f83df4-0873-447f-850b-3fdc2196ba7a&l=0&s=2dcdef262e1ef5403db02ffe9d6b48f0a54627fe"; Version=1; Domain=.meetup.com; Max-Age=630720000; Expires=Tue, 08-Dec-2037 15:03:38 GMT; Path=/; HttpOnly
+Set-Cookie: MEETUP_BROWSER_ID="id=3d00f73d-f21e-4fa2-96b1-d9a4d72a261e"; Version=1; Domain=.meetup.com; Max-Age=630720000; Expires=Tue, 08-Dec-2037 15:03:38 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: MEETUP_CSRF=ba7fcbc6-f759-41f0-8afd-2fc93fb69428; Domain=.meetup.com; Expires=Fri, 12-Jan-2018 15:03:38 GMT; Path=/; Secure
+X-Redirect-Location: https://beta2.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/past/
+X-Cache: MISS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 13 Dec 2017 15:03:40 GMT
+X-Served-By: cache-sin18027-SIN
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+Via: 1.1 google
+Via: 1.1 varnish
+Cache-Control: no-cache

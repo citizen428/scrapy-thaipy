@@ -1,0 +1,10 @@
+Set-Cookie: _cookie-check=RmBRv0VkBbe6YitT; expires=Mon, 11 Jun 2018 15:03:37 GMT; path=/; domain=.meetup.com
+X-Cache: HIT
+Date: Wed, 13 Dec 2017 15:03:37 GMT
+X-Served-By: cache-sin18025-SIN
+Accept-Ranges: bytes
+X-Cache-Hits: 0
+Via: 1.1 varnish
+Server: Varnish
+Location: https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/past?_cookie-check=RmBRv0VkBbe6YitT
+Retry-After: 0
